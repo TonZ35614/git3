@@ -8,6 +8,7 @@ namespace git3
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        bool a =true;
 
         public Game1()
         {
